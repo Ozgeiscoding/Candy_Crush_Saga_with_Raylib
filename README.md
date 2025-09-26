@@ -6,9 +6,11 @@ This project is a **Candy Crush–style game** built in C using the **Raylib** l
 
 - **Main Menu**
 <img width="963" height="543" alt="image" src="https://github.com/user-attachments/assets/70f13ad0-55b2-4296-9fd8-9213317a580b" />
-  - **Play**: Go to the level selection screen  
+  - **Play**: Go to the level selection screen
+    
   - **Settings**: Turn music/sound on or off, adjust music volume
-  <img width="304" height="237" alt="image" src="https://github.com/user-attachments/assets/0e4d0559-419f-48ac-a0ea-18b412cbf476" />
+  
+    <img width="304" height="237" alt="image" src="https://github.com/user-attachments/assets/0e4d0559-419f-48ac-a0ea-18b412cbf476" />
 
   - **Exit**: Quit the game  
 
