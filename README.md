@@ -9,12 +9,13 @@ This project is a **Candy Crush–style game** built in C using the **Raylib** l
   - **Play**: Go to the level selection screen  
   - **Settings**: Turn music/sound on or off, adjust music volume
   <img width="304" height="237" alt="image" src="https://github.com/user-attachments/assets/0e4d0559-419f-48ac-a0ea-18b412cbf476" />
+
   - **Exit**: Quit the game  
 
 - **Level System**
-<img width="958" height="537" alt="image" src="https://github.com/user-attachments/assets/3b882b29-fd45-409f-a7bc-255855796b9d" />
   - Levels 1, 2, and 3 available  
-  - Each level has different number of moves and target score  
+  - Each level has different number of moves and target score 
+<img width="958" height="537" alt="image" src="https://github.com/user-attachments/assets/3b882b29-fd45-409f-a7bc-255855796b9d" /> 
 
 - **Matches and Special Candies**  
   - Match 3: Normal scoring  
@@ -31,4 +32,4 @@ This project is a **Candy Crush–style game** built in C using the **Raylib** l
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/Ozgeiscoding/Candy_Crush_Saga_with_Raylib.git
