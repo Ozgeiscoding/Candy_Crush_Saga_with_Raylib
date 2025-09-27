@@ -1,6 +1,6 @@
 # 🍬 Candy Crush Clone with Raylib  
 
-This project is a **Candy Crush–style game** built in C using the **Raylib** library. It includes multiple levels, special candies, sound/music settings, and a scoring system.  
+This project is a **Candy Crush–style game** built in C using the **Raylib** library. It includes explosion effect, special candies, sound/music settings, and a scoring system.  
 
 ## 🎮 Features  
 
@@ -25,7 +25,7 @@ This project is a **Candy Crush–style game** built in C using the **Raylib** l
   - Match 4: Creates a candy that clears its entire row and column  
   - Match 5: Creates a **Color Bomb** (destroys all candies of the same color)  
   - Square (2x2) match support  
-  - 💥 **Explosion effects** when special candies are activated
+  - 💥 Explosion effects when special candies are activated
   
   <img width="958" height="537" alt="image" src="https://github.com/user-attachments/assets/10e38244-941a-4f82-a4d0-c25aa2fb11d8" />
   
