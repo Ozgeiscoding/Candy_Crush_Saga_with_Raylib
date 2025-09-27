@@ -25,12 +25,15 @@ This project is a **Candy Crush–style game** built in C using the **Raylib** l
   - Match 4: Creates a candy that clears its entire row and column  
   - Match 5: Creates a **Color Bomb** (destroys all candies of the same color)  
   - Square (2x2) match support  
-  - 💥 **Explosion effects** when special candies are activated  
+  - 💥 **Explosion effects** when special candies are activated
+  
+  <img width="958" height="537" alt="image" src="https://github.com/user-attachments/assets/10e38244-941a-4f82-a4d0-c25aa2fb11d8" />
+  
 
 - **Sound & Music**  
   - Background music  
   - Sound effects  
-  - Adjustable music volume  
+  - Adjustable music volume from settings on the main menu 
 
 ## 🛠️ Installation  
 
