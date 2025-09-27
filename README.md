@@ -18,6 +18,7 @@ This project is a **Candy Crush–style game** built in C using the **Raylib** l
   - Levels 1, 2, and 3 available  
   - Each level has different number of moves and target score  
 
+  
   <img width="958" height="537" alt="image" src="https://github.com/user-attachments/assets/3b882b29-fd45-409f-a7bc-255855796b9d" />  
 
 - **Matches and Special Candies**  
@@ -26,6 +27,7 @@ This project is a **Candy Crush–style game** built in C using the **Raylib** l
   - Match 5: Creates a **Color Bomb** (destroys all candies of the same color)  
   - Square (2x2) match support  
   - 💥 Explosion effects when special candies are activated
+
   
   <img width="958" height="537" alt="image" src="https://github.com/user-attachments/assets/10e38244-941a-4f82-a4d0-c25aa2fb11d8" />
   
