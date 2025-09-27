@@ -12,6 +12,7 @@ It includes **explosion effect, special candies, sound/music settings, and a sco
 
 - **Play** → Go to the level selection screen  
 - **Settings** → Turn music/sound on or off, adjust music volume  
+
   <img width="304" height="237" alt="settings" src="https://github.com/user-attachments/assets/0e4d0559-419f-48ac-a0ea-18b412cbf476" />  
 
 ---
